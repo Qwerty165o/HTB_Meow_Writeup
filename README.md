@@ -41,10 +41,7 @@ The target responded to all 8 packets with 0% packet loss, confirming that it is
 
 The next step is to identify which services are running on the target. Nmap is the most common tool for this — it scans a range of ports and reports which are open, closed, or filtered.
 
-| $ nmap 10.129.157.143 |
-| :---- |
-
-![][image2]
+![](https://github.com/Qwerty165o/HTB_Meow_Writeup/blob/main/Screenshot_2026-09-07_151047.png?raw=true)
 
 *Figure 2 — Nmap scan showing a single open port: 23/tcp (telnet).*
 
