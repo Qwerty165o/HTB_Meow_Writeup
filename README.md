@@ -55,8 +55,6 @@ Telnet is a legacy remote-access protocol that transmits data — including cred
 
 Since telnet was the only exposed service, it became the logical next step for attempting access. Telnet was used to connect directly to the target on port 23:
 
-| $ telnet 10.129.157.143 |
-| :---- |
 ![](https://github.com/Qwerty165o/HTB_Meow_Writeup/blob/main/Screenshot_2026-09-07_160449.png?raw=true)
 
 At the login prompt, the username root was attempted with a blank password. This succeeded, granting an interactive session on the target as the root user — the highest-privileged account on a Linux system.
