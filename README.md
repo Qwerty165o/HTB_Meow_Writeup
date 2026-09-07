@@ -30,8 +30,6 @@ Once the VPN connection is active, the attacking machine (Parrot OS in this case
 
 With the VPN connected, the first step is to confirm the target is reachable. This is done using ping, which sends ICMP echo requests and listens for replies.
 
-| $ ping 10.129.157.143 |
-| :---- |
 
 ![](https://github.com/Qwerty165o/HTB_Meow_Writeup/blob/main/Screenshot_2026-09-07_151000.png?raw=true)
 
