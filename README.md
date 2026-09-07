@@ -33,7 +33,7 @@ With the VPN connected, the first step is to confirm the target is reachable. Th
 | $ ping 10.129.157.143 |
 | :---- |
 
-![](https://github.com/Qwerty165o/HTB_Meow_Writeup/blob/main/Screenshot_2026-09-07_151047.png?raw=true)
+![](https://github.com/Qwerty165o/HTB_Meow_Writeup/blob/main/Screenshot_2026-09-07_151000.png?raw=true)
 
 *Figure 1 — Successful ICMP echo replies from the target (0% packet loss).*
 
